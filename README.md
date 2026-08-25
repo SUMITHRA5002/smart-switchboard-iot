@@ -2,11 +2,11 @@
 
 ````md
 
-\# ⚡ Smart Switchboard IoT
+# ⚡ Smart Switchboard IoT
 
 
 
-\## Real-Time Appliance-Level Energy Monitoring and Intelligent Energy Management System
+## Real-Time Appliance-Level Energy Monitoring and Intelligent Energy Management System
 
 
 
@@ -22,43 +22,43 @@ Beyond monitoring, the project includes intelligent analytics such as energy for
 
 
 
-\---
+---
 
 
 
-\## 🚀 Key Features
+## 🚀 Key Features
 
 
 
-\- 📊 Real-time appliance-level energy monitoring
+- 📊 Real-time appliance-level energy monitoring
 
-\- ⚡ Voltage, current, power, and energy measurement
+- ⚡ Voltage, current, power, and energy measurement
 
-\- 🏠 Monitoring of multiple appliances
+- 🏠 Monitoring of multiple appliances
 
-\- 📈 Interactive real-time dashboard
+- 📈 Interactive real-time dashboard
 
-\- 💰 Electricity cost estimation
+- 💰 Electricity cost estimation
 
-\- 📅 Energy usage analytics
+- 📅 Energy usage analytics
 
-\- 🔮 Energy consumption forecasting
+- 🔮 Energy consumption forecasting
 
-\- 💳 Monthly energy budget tracking
+- 💳 Monthly energy budget tracking
 
-\- 🧠 Appliance behaviour analysis
+- 🧠 Appliance behaviour analysis
 
-\- ⚠️ Abnormal energy usage detection
+- ⚠️ Abnormal energy usage detection
 
-\- 🤖 Intelligent energy-saving recommendations
+- 🤖 Intelligent energy-saving recommendations
 
-\- 📥 Downloadable energy reports
+- 📥 Downloadable energy reports
 
-\- 📡 ESP32-based IoT data collection
+- 📡 ESP32-based IoT data collection
 
 
 
-\---
+---
 
 
 
